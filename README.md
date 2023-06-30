@@ -1,5 +1,5 @@
 ### Select Language - Chọn ngôn ngữ
-- [🇻🇳 Tiếng Việt](#lien-he)
+- [🇻🇳 Tiếng Việt](#liên-hệ)
 - [🇺🇸 English](#contact)
 
 ## Liên hệ
